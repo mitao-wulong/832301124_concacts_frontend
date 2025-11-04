@@ -1,4 +1,4 @@
-前端代码规范 (HTML/CSS/JavaScript)【Javascript风格指南】（https://zh-google-styleguide.readthedocs.io/en/latest/google-javascript-styleguide/contents.html）
+前端代码规范 (HTML/CSS/JavaScript)【风格指南】[（https://zh-google-styleguide.readthedocs.io/en/latest/google-javascript-styleguide/contents.html）](https://iischajn.github.io/trans/htmlcss-guide/)
 1. 通用规范
 文件命名
 全部使用小写字母
